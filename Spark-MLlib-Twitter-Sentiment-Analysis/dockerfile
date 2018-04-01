@@ -1,0 +1,1 @@
+FROM p7hb/p7hb-docker-mllib-twitter-sentiment:1.6.2
